@@ -1,108 +1,112 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&text=DNYANESHWAR&fontSize=58&fontColor=00F5FF&color=0:090979,50:301060,100:000000&stroke=00F5FF&strokeWidth=1&animation=fadeIn&desc=DEVOPS%20ENGINEER%20%7C%20CLOUD%20%7C%20AUTOMATION&descSize=17&descAlignY=72" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003B00,100:00FF41&height=200&section=header&text=DNYANESHWAR%20MANDAVKAR&fontSize=34&fontColor=00FF41&animation=fadeIn&fontAlignY=38&desc=ASPIRING%20DEVOPS%20ENGINEER&descAlignY=60&descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+DevOps+world;AWS+Cloud+%7C+Linux+%7C+Git;Automating+Ideas+into+Reality;Learn.+Build.+Automate.+Repeat." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2500&pause=700&color=00FF41&center=true&vCenter=true&width=750&lines=Initializing+DevOps+Journey...;AWS+Cloud+%7C+Linux+%7C+Git;Building+Infrastructure+with+Automation;Learn+%7C+Build+%7C+Troubleshoot+%7C+Repeat" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-00F5FF?style=for-the-badge&labelColor=101020" />
-<img src="https://img.shields.io/badge/FOCUS-AWS%20%7C%20DEVOPS-8A2BE2?style=for-the-badge&labelColor=101020" />
+<img src="https://img.shields.io/badge/AWS-CLOUD-00FF41?style=for-the-badge&logo=amazonaws&logoColor=black&labelColor=001A00" />
+<img src="https://img.shields.io/badge/LINUX-TERMINAL-00FF41?style=for-the-badge&logo=linux&logoColor=00FF41&labelColor=001A00" />
+<img src="https://img.shields.io/badge/DEVOPS-IN%20PROGRESS-00FF41?style=for-the-badge&logo=githubactions&logoColor=00FF41&labelColor=001A00" />
 
 </div>
 
 ---
 
-## ⚡ `whoami` — About Me
+## `> whoami`
 
-```yaml
-name: Dnyaneshwar Mandavkar
-role: Aspiring DevOps Engineer
-currently_learning:
-  - AWS Cloud
-  - Linux & Shell Scripting
-  - Git & GitHub
-  - Docker & Kubernetes
-  - CI/CD with Jenkins
-goal: Build real-world cloud infrastructure
-mindset: Learn | Practice | Troubleshoot | Improve
+```bash
+Name="Dnyaneshwar Mandavkar"
+Role="Aspiring DevOps Engineer"
+Cloud="AWS"
+Learning="Linux | Git | Docker | CI/CD"
+Mission="Build practical cloud projects"
+Mode="Learn -> Build -> Troubleshoot"
 ```
 
-> 💡 I believe in learning by building, breaking, troubleshooting, and improving real-world systems.
+> Building skills one lab at a time. Focused on cloud infrastructure, automation, reliability, and continuous learning.
 
-## 🧰 My DevOps Arsenal
+## `> tech_stack --list`
 
 <div align="center">
 
-| ☁️ Cloud | ⚙️ DevOps | 🖥️ Development |
-|:---:|:---:|:---:|
-| AWS | Git & GitHub | Python |
-| EC2 · S3 · VPC | Docker | HTML |
-| IAM · CloudWatch | Jenkins | VS Code |
-| Networking | Kubernetes | Linux Bash |
-
-<br/>
-
 <img src="https://skillicons.dev/icons?i=aws,linux,bash,git,github,docker,kubernetes,jenkins,python,vscode&perline=5" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/EC2-00FF41?style=flat-square&logo=amazonec2&logoColor=black&labelColor=001A00" />
+<img src="https://img.shields.io/badge/S3-00FF41?style=flat-square&logo=amazons3&logoColor=black&labelColor=001A00" />
+<img src="https://img.shields.io/badge/VPC-00FF41?style=flat-square&logo=amazonaws&logoColor=black&labelColor=001A00" />
+<img src="https://img.shields.io/badge/IAM-00FF41?style=flat-square&logo=amazonaws&logoColor=black&labelColor=001A00" />
+<img src="https://img.shields.io/badge/CloudWatch-00FF41?style=flat-square&logo=amazonaws&logoColor=black&labelColor=001A00" />
 
 </div>
 
-## 🏗️ Featured Projects
+## `> featured_projects`
 
 <div align="center">
 
 <a href="https://github.com/dnyaneshwar-777/student-repo">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=dnyaneshwar-777&repo=student-repo&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=dnyaneshwar-777&repo=student-repo&theme=chartreuse-dark&hide_border=true" />
 </a>
 
 </div>
 
-### 🔭 Current Learning Labs
+### ☁️ AWS Cloud Labs
+- EC2 and NGINX web hosting
+- VPC networking and routing
+- IAM access management
+- CloudWatch monitoring and logs
 
-- ☁️ **AWS Infrastructure** — EC2, VPC, IAM and CloudWatch
-- 🌐 **Web Hosting** — NGINX and AWS load balancing
-- 🔧 **Version Control** — Git branches, remotes and pull requests
-- 🐳 **Containerization** — Docker images and containers
-- 🚀 **Automation** — Learning CI/CD workflows
+### 🔧 Git & GitHub
+- Branching, merging and remote repositories
+- Pull requests and version control
+- SSH authentication practice
 
-## 📊 GitHub Analytics
+### 🚀 DevOps Roadmap
+- Docker and container workflows
+- Jenkins and CI/CD pipelines
+- Kubernetes fundamentals
+
+## `> github_analytics`
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dnyaneshwar-777&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnyaneshwar-777&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dnyaneshwar-777&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnyaneshwar-777&layout=compact&theme=chartreuse-dark&hide_border=true" />
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=dnyaneshwar-777&theme=tokyonight&hide_border=true" />
+<img width="75%" src="https://streak-stats.demolab.com?user=dnyaneshwar-777&theme=chartreuse-dark&hide_border=true" />
 
 </div>
 
-## 🎯 Mission: From Learner to Engineer
+## `> current_mission`
 
-- [ ] Build production-style AWS projects
-- [ ] Master Linux troubleshooting
-- [ ] Deploy applications using CI/CD
-- [ ] Learn container orchestration
-- [ ] Document every hands-on project
-- [ ] Contribute to open-source
+- [ ] Complete hands-on AWS projects
+- [ ] Practice Linux troubleshooting
+- [ ] Build and document a CI/CD pipeline
+- [ ] Deploy applications to cloud infrastructure
+- [ ] Improve automation and scripting skills
 
-## 🤝 Let's Connect
+## `> connect`
 
 <div align="center">
 
 <a href="https://github.com/dnyaneshwar-777">
-<img src="https://img.shields.io/badge/GitHub-My%20Code-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-Follow-00FF41?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=001A00" />
 </a>
+
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-00FF41?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=001A00" />
 </a>
 
 <br/><br/>
 
-### `while(alive) { learn(); build(); improve(); }`
+`[ SYSTEM MESSAGE: KEEP LEARNING. KEEP BUILDING. ]`
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7F00FF,100:090979&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:003B00,100:000000&height=120&section=footer" />
 
 </div>
